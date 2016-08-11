@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="HammerTimeDB">
+  <DataContextMoniker Name="/HammerTimeDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="4591d03d-dd09-4e74-a681-d1928c563e31" absoluteBounds="2.125, 1.125, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/HammerTimeDBDataContext/product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c155ffe9-f8c3-4943-a579-16c88139f0cc" absoluteBounds="2.14, 1.585, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

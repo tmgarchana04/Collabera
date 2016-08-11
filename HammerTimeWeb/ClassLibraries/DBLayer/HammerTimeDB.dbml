@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="HammerTime" Class="HammerTimeDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=HammerTime;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="HammerTimeConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.product" Member="products">
+    <Type Name="product">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(256)" CanBeNull="true" />
+      <Column Name="brand" Type="System.String" DbType="NVarChar(256)" CanBeNull="true" />
+      <Column Name="material" Type="System.String" DbType="NVarChar(256)" CanBeNull="true" />
+      <Column Name="setSize" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="color" Type="System.String" DbType="NVarChar(256)" CanBeNull="true" />
+      <Column Name="weight" Type="System.String" DbType="NVarChar(256)" CanBeNull="true" />
+      <Column Name="dimensions" Type="System.String" DbType="NVarChar(256)" CanBeNull="true" />
+      <Column Name="packcontent" Type="System.String" DbType="NVarChar(256)" CanBeNull="true" />
+      <Column Name="sku" Type="System.String" DbType="NVarChar(256)" CanBeNull="true" />
+      <Column Name="description" Type="System.String" DbType="NVarChar(1024)" CanBeNull="true" />
+      <Column Name="stockunit" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="minstockalertunit" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="status" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

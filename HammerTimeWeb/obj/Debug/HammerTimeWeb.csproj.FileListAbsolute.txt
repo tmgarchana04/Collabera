@@ -1,0 +1,6 @@
+D:\Ajaj\Project\TechCapro\Assignment\AD_Product_CRUD\ProductCRUD\HammerTimeWeb\bin\HammerTimeWeb.dll.config
+D:\Ajaj\Project\TechCapro\Assignment\AD_Product_CRUD\ProductCRUD\HammerTimeWeb\bin\HammerTimeWeb.dll
+D:\Ajaj\Project\TechCapro\Assignment\AD_Product_CRUD\ProductCRUD\HammerTimeWeb\bin\HammerTimeWeb.pdb
+D:\Ajaj\Project\TechCapro\Assignment\AD_Product_CRUD\ProductCRUD\HammerTimeWeb\obj\Debug\HammerTimeWeb.csprojResolveAssemblyReference.cache
+D:\Ajaj\Project\TechCapro\Assignment\AD_Product_CRUD\ProductCRUD\HammerTimeWeb\obj\Debug\HammerTimeWeb.dll
+D:\Ajaj\Project\TechCapro\Assignment\AD_Product_CRUD\ProductCRUD\HammerTimeWeb\obj\Debug\HammerTimeWeb.pdb
